@@ -7,4 +7,4 @@ Usage
 
 This app requires Xcode to be installed, it has only been successfully tested on OS X 10.11 at this time.
 
-
+Donate https://github.com/codesourse/iInjection/blob/master/%E6%B1%82%E6%89%93%E8%B5%8F.png
